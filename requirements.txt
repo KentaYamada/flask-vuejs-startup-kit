@@ -21,7 +21,7 @@ psycopg2-binary==2.7.7
 pudb==2019.1
 pycodestyle==2.5.0
 pyflakes==2.1.1
-Pygments==2.2.0
+Pygments==2.7.4
 PyJWT==1.7.1
 pynvim==0.4.0
 PyQt5-sip==4.19.19
